@@ -1,7 +1,7 @@
 /**
  * Created by Soul on 29.03.2021.
  */
-/*public class HomeWorks {
+public class HomeWorks {
     static boolean inRange(int a, int b) {
         return a + b >= 10 && a + b <= 20;
     }
@@ -53,4 +53,4 @@
         System.out.println(isLeap(2100));
         System.out.println(isLeap(-1));
     }
-}*/
+}
